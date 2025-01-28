@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'M currently an Info Sci Major
+I'm currently an Info Sci Major
 
 <!--
 **DavonKiser/DavonKiser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
